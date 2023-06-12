@@ -1,0 +1,13 @@
+To do
+
+Friday
+
+
+Saturday
+
+
+Sunday
+-clean up code, specifically state
+-get out of project rename state if you click outside
+-Fix UI (Sunday)
+-Create persist state using local storage and Redux (if you refresh, it should take you to the project you were on) ???
