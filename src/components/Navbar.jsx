@@ -12,11 +12,6 @@ const Navbar = ({ handleSetSidebarVisibility }) => {
 							<MenuIcon className="text-white text-" />
 						</button>
 					</div>
-					{/* <div className="flex justify-center hover:bg-red-300 w-[40px] rounded-[5px]">
-                              <button>
-                                   <HomeIcon className="text-white" />
-                              </button>
-                         </div> */}
 				</div>
 				<div className="flex justify-center align-middle text-white w-[100px] hover:text-yellow-300 transition delay-50">
 					<button className="font-pacifico text-2xl">Doo</button>
